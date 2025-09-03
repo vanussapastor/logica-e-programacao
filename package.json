@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "chai": "^6.0.1",
+    "mocha": "^11.7.2"
+  },
+  "name": "logica-e-programacao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanussapastor/logica-e-programacao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vanussapastor/logica-e-programacao/issues"
+  },
+  "homepage": "https://github.com/vanussapastor/logica-e-programacao#readme"
+}
